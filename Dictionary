@@ -1,3 +1,17 @@
+A dictionary represents a group of elemnets in the form of key value pairs.
+Dictionay in python is an unorderd collection.
+Dictionary are mutable so we can modify it's item without changing their identity.
+Dictionary are represend by using  curly bracket { }.
+A dictionary is created in the form of key-value pair where keys can't be repeated and must be immutable and vlues can be of any data type and can be duplicated.
+keys are case sensitive.
+Ex:-
+stu = {001:"jagruti",002:"Hetal",003:"Honey"}
+
+While writing key we must follow the following rules:
+# key should be unique.
+# if we mention same key again, the old key will be overwritten.
+# key should be immutable type .ex:integer, string, tuple
+# we can not use list or dictionary AS A key.
 # dictionary
 
 
