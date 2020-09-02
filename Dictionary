@@ -1,0 +1,8 @@
+# dictionary
+
+
+dit = {"Hitechnology":"Hetal","GokulDham":"Jethalal","ashirvad":"Delhi","Godhra":"Honey"}
+
+print(dit)
+# to get a value out of the key
+print(dit.items())
