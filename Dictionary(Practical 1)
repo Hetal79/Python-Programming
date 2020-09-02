@@ -1,0 +1,18 @@
+dit = {'Name':'Hetal','Address':'Gandhinagar'}
+print(dit)
+print(dit['Name'])
+dit.get('Name')
+print("**********************************************")
+keys = dit.keys()
+print(keys)
+print("**********************************************")
+dit['Name']='Hetu'
+print(dit)
+print("**********************************************")
+dit['age']=20
+print(dit)
+print("**********************************************")
+print(dit.pop('age'))
+print(dit)
+print(dit.popitem())
+print(dit)
